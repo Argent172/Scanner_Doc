@@ -1,0 +1,4 @@
+C:\Users\argen\source\repos\Doc_Scanner\bin\Debug\netcoreapp3.0\Doc_Scanner.exe
+C:\Users\argen\source\repos\Doc_Scanner\obj\Debug\netcoreapp3.0\Doc_Scanner.csprojAssemblyReference.cache
+C:\Users\argen\source\repos\Doc_Scanner\obj\Debug\netcoreapp3.0\Doc_Scanner.AssemblyInfoInputs.cache
+C:\Users\argen\source\repos\Doc_Scanner\obj\Debug\netcoreapp3.0\Doc_Scanner.AssemblyInfo.cs
